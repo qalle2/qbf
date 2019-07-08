@@ -1,7 +1,6 @@
 # qbf
 Brainfuck interpreter in QBasic.
 * Reads the Brainfuck program from a file.
-* To save memory, "compiles" (RLE encodes) the program before running it.
 * The screen background turns **blue** when the Brainfuck program is expecting input.
 * Output:
   * Prints characters `0x20`&ndash;`0x7e` verbatim.
