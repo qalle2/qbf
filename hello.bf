@@ -1,18 +1,19 @@
-(from Wikipedia)
+print "Hello World!" and a newline
+cells 0 to 1 are loop counters
+cells 2 to 6 are character codes
+from Wikipedia
 
-++++++++
-[>++++ [>++>+++>+++>+ <<<<-] >+>+>->>+ [<] <-]
+++++++++[
+    >++++[
+        >++ >+++ >+++ >+
+    <<<<-]
+    >+ >+ >- >>+
+[<]<-]
 
->>.       H
->---.     e
-+++++++.  l
-.         l
-+++.      o
->>.       comma
-<-.       space
-<.        W
-+++.      o
-------.   r
---------. l
->>+.      d
->++.      !
+>> .
+>  ---. +++++++.. +++.
+>> .
+<  -.
+<  . +++. ------. --------.
+>> +.
+>  ++.
